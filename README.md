@@ -117,6 +117,8 @@ server-dashboard/<br>
 
     node -e "console.log(require('crypto').randomBytes(64).toString('hex'))"
 
+    node server.js
+
 🪪 License
 
 © 2025 Timothy Johnson. All Rights Reserved.<br>
