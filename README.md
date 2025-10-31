@@ -8,7 +8,8 @@ Date: October 2025 <br>
 
 ## Overview
 
-Server Dashboard provides real-time system monitoring and Docker container management through an intuitive web interface.
+Server Dashboard provides real-time system monitoring and Docker container management through an intuitive web interface. <br>
+
 Built for developers who need robust local server management capabilities without production dependencies.
 
 ## ✨ Features
