@@ -1,4 +1,4 @@
-# Server-Dashboard
+# Server Dashboard Local
 A web-based dashboard for monitoring and managing web servers.
 
 Author: Timothy Johnson <br>
